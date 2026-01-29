@@ -82,3 +82,6 @@ connect-bleというボタンを押して、M5StackとBluetooth接続を行い�
 インジケーターと外部監視用のスマホはどちらもWebアプリという形をとっています。  
 M5Stackとインジケーターとして使用するスマホはBluetoothで接続されます。  
 スマホとクラウドサーバーはインターネット経由で接続されます。  
+
+なぜBluetoothを選定したのかについては以下のページを参照してください。  
+[docs/bluetooth/README.md](./docs/bluetooth/)
